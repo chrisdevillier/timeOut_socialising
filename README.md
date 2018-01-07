@@ -3,6 +3,6 @@ App that chooses locations for social occasions that meet everyone's requirement
 
 Requirements:
 
-Jupyter Notebook
-Python 3
-Spark
+Jupyter Notebook, 
+ Python 3,
+ Spark
